@@ -3,7 +3,7 @@
 int main() {
     long int binary, ones_complement = 0;
     int remainder, place = 1;
-
+    
     printf(" 1's Complement of Binary Number");
     printf("Enter a binary number: ");
     scanf("%ld", &binary);
@@ -26,3 +26,4 @@ int main() {
 
     
 }
+
